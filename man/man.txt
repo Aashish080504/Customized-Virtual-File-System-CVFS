@@ -1,0 +1,12 @@
+NAME
+    man - Display manual page
+
+DESCRIPTION
+    Displays detailed manual information about a command.
+
+USAGE
+    man CommandName
+
+EXAMPLE
+    man creat
+    man read

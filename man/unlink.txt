@@ -1,0 +1,12 @@
+NAME
+    unlink - Delete a file
+
+DESCRIPTION
+    The unlink command removes a file from the CVFS.
+    It deallocates file memory and frees inode.
+
+USAGE
+    unlink FileName
+
+EXAMPLE
+    unlink Demo.txt

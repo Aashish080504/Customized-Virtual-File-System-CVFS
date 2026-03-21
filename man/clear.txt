@@ -1,0 +1,11 @@
+NAME
+    clear - Clear the screen
+
+DESCRIPTION
+    Clears the terminal screen.
+
+USAGE
+    clear
+
+NOTE
+    Works according to system platform.

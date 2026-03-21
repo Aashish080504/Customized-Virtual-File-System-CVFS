@@ -1,0 +1,18 @@
+NAME
+    help - Display help page
+
+DESCRIPTION
+    Displays all available commands supported by CVFS.
+
+USAGE
+    help
+
+AVAILABLE COMMANDS
+    ls
+    creat
+    read
+    write
+    unlink
+    man
+    clear
+    exit

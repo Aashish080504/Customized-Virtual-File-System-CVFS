@@ -1,0 +1,17 @@
+NAME
+    creat - Create a new file
+
+DESCRIPTION
+    The creat command is used to create a new regular file
+    inside the Customised Virtual File System.
+
+USAGE
+    creat FileName Permission
+
+PERMISSION VALUES
+    1 : Read
+    2 : Write
+    4 : Read + Write
+
+EXAMPLE
+    creat Demo.txt 4

@@ -1,0 +1,15 @@
+NAME
+    read - Read data from file
+
+DESCRIPTION
+    The read command is used to read data from an opened file.
+
+USAGE
+    read FileDescriptor NumberOfBytes
+
+PARAMETERS
+    FileDescriptor : Returned at time of file creation
+    NumberOfBytes  : Number of bytes to read
+
+EXAMPLE
+    read 3 20

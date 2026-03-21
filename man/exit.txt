@@ -1,0 +1,9 @@
+NAME
+    exit - Terminate CVFS
+
+DESCRIPTION
+    Stops the Customised Virtual File System
+    and deallocates all resources.
+
+USAGE
+    exit

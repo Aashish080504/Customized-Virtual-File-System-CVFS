@@ -1,0 +1,15 @@
+NAME
+    ls - List all files
+
+DESCRIPTION
+    The ls command displays the list of all regular files
+    currently present in the Customised Virtual File System (CVFS).
+
+USAGE
+    ls
+
+OUTPUT
+    InodeNumber    FileName    FileSize
+
+EXAMPLE
+    ls

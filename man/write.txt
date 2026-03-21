@@ -1,0 +1,16 @@
+NAME
+    write - Write data into file
+
+DESCRIPTION
+    The write command is used to write data into an existing file.
+
+USAGE
+    write FileDescriptor
+
+PROCESS
+    After executing the command, system will ask to enter data.
+
+EXAMPLE
+    write 3
+    Enter data:
+    Hello CVFS
